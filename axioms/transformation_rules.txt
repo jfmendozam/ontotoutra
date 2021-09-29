@@ -1,0 +1,26 @@
+# Countries
+
+Individual: @B*
+    Types: Country
+    Facts: 
+        countryID @A* (xsd:integer),
+        countryName @B*,
+        alpha2Code @C*,
+        alpha3Code @D*
+
+# States
+Individual: @B*
+    Types: hasCountryParent value Colombia
+    Facts: 
+        stateID @A* (xsd:integer),
+        stateName @B*,
+        countryID @C* (xsd:integer),
+        stateCapital @D*,
+        stateURL @E*,
+        stateAbbr @F*,
+        stateLat @G* (xsd:decimal),
+        stateLon @H* (xsd:decimal),
+        stateAbbr @I*
+
+
+# 
