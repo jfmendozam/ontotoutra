@@ -1,0 +1,14 @@
+1590111671161	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiDmEAw"
+Gtk-Message: 20:41:11.267: Failed to load module "appmenu-gtk-module"
+1590111671416	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590111671597	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590111671597	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590111671598	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590111671598	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Gtk-Message: 20:41:12.084: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:41:12.197: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:41:12.853: Failed to load module "appmenu-gtk-module"
+1590111672866	Marionette	INFO	Listening on port 43691
+1590111672968	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1590112135817	Marionette	INFO	Stopped listening on port 43691
