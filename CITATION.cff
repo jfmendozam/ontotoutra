@@ -10,7 +10,7 @@ authors:
 title: "OntoTouTra source code: Tourist Traceability Ontology Based on Big Data Analytics"
 version: 1.0.0
 date-released: 2021-09-27
-url: "https://www.mdpi.com/2076-3417/11/22/11061"
+url: "https://github.com/jfmendozam/ontotoutra"
 preferred-citation:
   type: article
   authors:
@@ -35,3 +35,4 @@ preferred-citation:
   issue: 11
   volume: 22
   year: 2021
+  url: "https://www.mdpi.com/2076-3417/11/22/11061"
