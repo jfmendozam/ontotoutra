@@ -11,7 +11,7 @@ title: "OntoTouTra: Tourist Traceability Ontology Based on Big Data Analytics"
 version: 1.0.0
 doi: 10.3390/app112211061
 date-released: 2021-09-27
-url: "https://github.com/jfmendozam/ontotoutra"
+url: "https://www.mdpi.com/2076-3417/11/22/11061"
 preferred-citation:
   type: article
 - family-names: "Mendoza-Moreno"
@@ -35,4 +35,3 @@ title: "OntoTouTra: Tourist Traceability Ontology Based on Big Data Analytics"
 issue: 11
 volume: 22
 year: 2021
-url: "https://www.mdpi.com/2076-3417/11/22/11061"
